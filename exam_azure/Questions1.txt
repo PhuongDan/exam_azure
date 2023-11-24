@@ -1,0 +1,26 @@
+﻿Dựa trên yêu cầu của bạn, tôi sẽ giả định một số yếu tố và đưa ra một số gợi ý
+về lựa chọn công nghệ cho việc xây dựng trang web đặt hàng và mua sắm trực tuyến.
+
+1. Lựa chọn Framework và Ngôn ngữ lập trình:
+   - React và Node.js: React là một thư viện JavaScript phổ biến để xây dựng giao diện người dùng, 
+   trong khi Node.js là một nền tảng phát triển dựa trên JavaScript, giúp tích hợp giữa frontend và backend. 
+   Việc sử dụng cả hai giúp đơn giản hóa quá trình phát triển và duy trì mã nguồn, đồng thời tối ưu hóa trải nghiệm người dùng.
+
+2. Sử dụng Kiến trúc Microservices:
+   - Phân tách hệ thống thành các dịch vụ nhỏ độc lập giúp giảm chi phí vận hành và bảo trì. 
+   Mỗi microservice có thể được phát triển, triển khai, và cập nhật độc lập, 
+   giảm thiểu ảnh hưởng đối với toàn bộ hệ thống. Công nghệ như Docker và Kubernetes có thể hỗ trợ triển khai
+   và quản lý microservices một cách linh hoạt và hiệu quả.
+
+3. Sử dụng Cơ sở dữ liệu NoSQL:
+   - Cơ sở dữ liệu NoSQL như MongoDB có thể giúp giảm chi phí vận hành và bảo trì so với cơ sở dữ liệu quan hệ truyền thống. 
+   Chúng hỗ trợ linh hoạt hóa dữ liệu và có khả năng mở rộng dễ dàng khi nhu cầu mua sắm tăng. 
+   Đồng thời, chúng cũng phù hợp cho việc lưu trữ dữ liệu linh hoạt từ các nguồn khác nhau như lịch sử mua sắm và thông tin người dùng.
+
+4. Tối ưu hóa để Thích ứng với Sự kiện Thứ Sáu Đen:
+   - Sự kiện Thứ Sáu Đen thường gặp nhu cầu mua sắm lớn. Cần có khả năng mở rộng hệ thống một cách linh hoạt để 
+   đối mặt với tình huống tăng cường lưu lượng người dùng. Sử dụng các dịch vụ đám mây như AWS Lambda hoặc Azure Functions 
+   để tự động mở rộng tài nguyên khi cần thiết, giúp tiết kiệm chi phí khi không có nhu cầu mua sắm lớn.
+
+Những lựa chọn trên không chỉ hỗ trợ hiệu quả về chi phí mà còn giúp tối ưu hóa hiệu suất và trải nghiệm người dùng, 
+đồng thời đáp ứng được sự biến động của nhu cầu mua sắm theo thời gian.
