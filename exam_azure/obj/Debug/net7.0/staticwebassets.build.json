@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JBIEvfW5m9SeOZvwcbJOxdxpdkGvuMcBhO+SiEm5ebM=",
+  "Source": "exam_azure",
+  "BasePath": "_content/exam_azure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
